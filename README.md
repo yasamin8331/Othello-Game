@@ -1,4 +1,4 @@
-# Othello-Game
+
 # Othello Game with Minimax Algorithm
 
 This project implements the classic board game Othello (also known as Reversi) using Python. It allows for two-player gameplay and also integrates the **Minimax** algorithm to provide an AI-based player. The game features a graphical board, alternating turns between two players, and a final score display.
